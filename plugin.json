@@ -1,0 +1,12 @@
+{
+  "id": "boatload-of-signs",
+  "supportedversions": [202513416],
+  "weight": 0,
+  "javaplugin": "net.mcreator.boatloadofsigns.BoatloadOfSignsPlugin",
+  "info": {
+    "name": "Boatload of Signs",
+    "description": "Adds custom signs, hanging signs, and boats to MCreator",
+    "author": "Jake404NotFound",
+    "version": "1.0.0"
+  }
+}
