@@ -1,4 +1,5 @@
 {
+  "id": "hangingsign",
   "type": "hangingsign",
   "icon": "hanging_sign",
   "langkeys": {
