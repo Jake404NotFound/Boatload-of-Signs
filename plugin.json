@@ -5,7 +5,6 @@
   "supportedversions": [
     2025001
   ],
-  "javaplugin": "net.mcreator.boatloadofsigns.Launcher",
   "info": {
     "name": "Boatload of Signs",
     "description": "Adds custom signs, hanging signs, and boats to MCreator",

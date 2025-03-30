@@ -1,0 +1,65 @@
+{
+  "id": "hangingsign",
+  "modelement": true,
+  "type": "block",
+  "icon": "hanging_sign",
+  "name": "Hanging Sign",
+  "description": "Create custom hanging signs with custom textures and properties",
+  "category": "blocks",
+  "fields": {
+    "name": {
+      "type": "string",
+      "name": "Name",
+      "description": "The name of the hanging sign",
+      "required": true
+    },
+    "texture": {
+      "type": "texture",
+      "name": "Sign Texture",
+      "description": "The texture for the hanging sign",
+      "required": true
+    },
+    "textureBack": {
+      "type": "texture",
+      "name": "Back Texture (optional)",
+      "description": "The texture for the back of the hanging sign",
+      "required": false
+    },
+    "chainTexture": {
+      "type": "texture",
+      "name": "Chain Texture (optional)",
+      "description": "The texture for the chain of the hanging sign",
+      "required": false
+    },
+    "material": {
+      "type": "string",
+      "name": "Material",
+      "description": "The material of the hanging sign",
+      "default": "WOOD",
+      "required": true
+    },
+    "waterloggable": {
+      "type": "boolean",
+      "name": "Waterloggable",
+      "description": "Whether the hanging sign can be waterlogged",
+      "default": true,
+      "required": false
+    },
+    "lightLevel": {
+      "type": "number",
+      "name": "Light Level",
+      "description": "The light level emitted by the hanging sign",
+      "min": 0,
+      "max": 15,
+      "default": 0,
+      "required": false
+    },
+    "requiredTool": {
+      "type": "string",
+      "name": "Required Tool",
+      "description": "The tool required to break the hanging sign",
+      "default": "AXE",
+      "required": false
+    }
+  }
+}
