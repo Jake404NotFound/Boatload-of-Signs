@@ -1,0 +1,14 @@
+{
+  "type": "hangingsign",
+  "icon": "hanging_sign",
+  "langkeys": {
+    "elementgui.hangingsign.name": "Hanging Sign",
+    "elementgui.hangingsign.texture": "Sign Texture",
+    "elementgui.hangingsign.texture_back": "Back Texture (optional)",
+    "elementgui.hangingsign.chain_texture": "Chain Texture (optional)",
+    "elementgui.hangingsign.material": "Material",
+    "elementgui.hangingsign.waterloggable": "Waterloggable",
+    "elementgui.hangingsign.light_level": "Light Level",
+    "elementgui.hangingsign.required_tool": "Required Tool"
+  }
+}

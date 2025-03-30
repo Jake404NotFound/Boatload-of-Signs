@@ -1,7 +1,10 @@
 {
-  "id": "boatload-of-signs",
-  "supportedversions": [202513416],
-  "weight": 0,
+  "id": "boatloadofsigns",
+  "weight": 30,
+  "minversion": 0,
+  "supportedversions": [
+    2025001
+  ],
   "javaplugin": "net.mcreator.boatloadofsigns.BoatloadOfSignsPlugin",
   "info": {
     "name": "Boatload of Signs",

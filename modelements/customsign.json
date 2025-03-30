@@ -1,0 +1,13 @@
+{
+  "type": "customsign",
+  "icon": "sign",
+  "langkeys": {
+    "elementgui.customsign.name": "Custom Sign",
+    "elementgui.customsign.texture": "Sign Texture",
+    "elementgui.customsign.texture_back": "Back Texture (optional)",
+    "elementgui.customsign.material": "Material",
+    "elementgui.customsign.waterloggable": "Waterloggable",
+    "elementgui.customsign.light_level": "Light Level",
+    "elementgui.customsign.required_tool": "Required Tool"
+  }
+}

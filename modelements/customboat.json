@@ -1,0 +1,13 @@
+{
+  "type": "customboat",
+  "icon": "boat",
+  "langkeys": {
+    "elementgui.customboat.name": "Custom Boat",
+    "elementgui.customboat.texture": "Boat Texture",
+    "elementgui.customboat.has_chest": "Has Chest",
+    "elementgui.customboat.speed_multiplier": "Speed Multiplier",
+    "elementgui.customboat.durability": "Durability",
+    "elementgui.customboat.material": "Material",
+    "elementgui.customboat.buoyancy": "Buoyancy"
+  }
+}
